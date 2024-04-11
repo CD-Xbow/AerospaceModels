@@ -1,0 +1,11 @@
+# Material file for FA-18E_SuperHornet.dat.obj
+
+newmtl default
+	Ns 0
+	d 1
+	illum 2
+	Kd 0.789854 0.813333 0.694044
+	Ks 0.0 0.0 0.0
+	Ka 0.789854 0.813333 0.694044
+	map_Kd FA-18E_SuperHornet_P01.jpg
+
